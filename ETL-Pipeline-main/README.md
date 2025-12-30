@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/9cd40595-8912-4099-bd3a-e525c8e968a9)
-
 # ETL Pipeline
 
 This program extracts data from APIs and Google Drive, transforms it, and uploads it to a SQL database.
